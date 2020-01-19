@@ -8,7 +8,11 @@ yarn test -- --watch
 
 yarn install
 
+Local Server
 yarn run dev-server
+
+Node Server
+npm run start
 
 URL: http://localhost:8080/
 ```
